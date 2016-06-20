@@ -1,0 +1,119 @@
+*{
+margin:0;
+padding:0;
+}
+#navbar{
+	background-color:#FFF;
+	margin-top:10px;
+	
+}
+#gmail, #images, #news, #profile{
+	display:inline;
+}
+#profile{
+	position:relative;
+	left:1200px;
+	
+	
+}
+#news{
+	position:relative;
+	left:1195px;
+}
+#images{
+	position:relative;
+	left:1190px;
+}
+#gmail{
+	position:relative;
+	left:1185px;
+	
+}
+#logo{
+	width:330px;
+	height:100px;
+	margin: 170px auto;
+	
+	
+}
+#input_1{
+	width:500px;
+	height:37px;
+}
+#search{
+	width:300px;
+	position:relative;
+	left:440px;
+	bottom:120px;
+	background-color:yellow;
+}
+#buttons{
+	width:300px;
+	margin: 1px auto;
+	position:relative;
+	bottom:90px;
+	left:7px;
+}
+#google{
+	display:inline;
+	padding:10px;
+	border-radius:2px;
+}
+#lucky{
+	display:inline;	
+	padding:10px;
+	border-radius:2px;
+	}
+#input2{
+	padding:10px;
+	border-radius:2px;
+	background-color:#F5F5F5
+}
+#input3{
+	padding:10px;
+	border-radius:2px;
+	background-color:#F5F5F5
+}
+#footer{
+	background-color:#DEDEDE;
+	position:relative;
+	top:81px;
+	height:40px;
+}
+#ad, #business, #about, #privacy, #terms, #settings{
+	display:inline;
+}
+#ad{
+	position:relative;
+	left:40px;
+	top:10px;
+	margin-right:25px;
+}
+#business{
+	position:relative;
+	left:40px;
+	top:10px;
+	margin-right:25px;
+}
+#about{
+	position:relative;
+	left:40px;
+	top:10px;
+}
+#privacy{
+	position:relative;
+	left:850px;
+	top:10px;
+	margin-right:25px;
+}
+#terms{
+	position:relative;
+	left:850px;
+	top:10px;
+	margin-right:25px;
+}
+#settings{
+	position:relative;
+	left:850px;
+	top:10px;
+}
